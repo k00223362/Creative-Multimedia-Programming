@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://k00223362.github.io/CreativeMultimediaProgramming1/</title>
+  <link>https://k00223362.github.io/CreativeMultimediaProgramming1/</link>
+
+<item>
+     <link>https://k00223362.github.io/CreativeMultimediaProgramming1/</link>
+     <title>Creative Multimedia Progmramming</title>
+     <description>Khizer Iqbal, Creative Multimedia Programming Student in Limerick Institute of Technology (LIT), Curently Finishing Higher Diploma.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://k00223362.github.io/CreativeMultimediaProgramming1/index.html</link>
+     <title>Creative Multimedia Progmramming</title>
+     <description>Khizer Iqbal, Creative Multimedia Programming Student in Limerick Institute of Technology (LIT), Curently Finishing Higher Diploma.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
